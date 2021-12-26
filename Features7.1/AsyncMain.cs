@@ -21,8 +21,7 @@ internal class Program
     //  // fine
     //  MainAsync(url).GetAwaiter().GetResult();
     //}
-
-
+    
     // there is no async void, it's
 
     // Task Main
