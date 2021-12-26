@@ -1,6 +1,6 @@
 ﻿using static System.Console;
 
-namespace NewFeatures;
+namespace Features;
 
 public class Demo
 {
