@@ -1,6 +1,6 @@
 ﻿using static System.Console;
 
-namespace Features;
+namespace Features7;
 
 public class OutVariables
 {

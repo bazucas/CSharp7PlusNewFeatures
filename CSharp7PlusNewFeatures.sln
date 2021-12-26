@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32002.185
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{DB29D15D-E2C8-4A94-AEF4-DA4A19811665}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{DB29D15D-E2C8-4A94-AEF4-DA4A19811665}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Features", "Features\Features.csproj", "{24862342-9062-4EC0-A000-97F378E9E314}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Features7", "Features\Features7.csproj", "{24862342-9062-4EC0-A000-97F378E9E314}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

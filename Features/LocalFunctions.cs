@@ -1,8 +1,8 @@
 ﻿using static System.Console;
 using static System.Math;
-using static Features.EquationSolver;
+using static Features7.EquationSolver;
 
-namespace Features;
+namespace Features7;
 
 public class EquationSolver
 {

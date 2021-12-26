@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luis\\source\\repos\\CSharp7PlusNewFeatures\\Features\\Features.csproj",
-      "projectName": "Features",
-      "projectPath": "C:\\Users\\Luis\\source\\repos\\CSharp7PlusNewFeatures\\Features\\Features.csproj",
+      "projectUniqueName": "C:\\Users\\Luis\\source\\repos\\CSharp7PlusNewFeatures\\Features\\Features7.csproj",
+      "projectName": "Features7",
+      "projectPath": "C:\\Users\\Luis\\source\\repos\\CSharp7PlusNewFeatures\\Features\\Features7.csproj",
       "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Luis\\source\\repos\\CSharp7PlusNewFeatures\\Features\\obj\\",
       "projectStyle": "PackageReference",
